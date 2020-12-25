@@ -65,7 +65,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: media/resume.pdf
+   link: static/media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "yegorova@eoas.ubc.ca"
@@ -74,7 +74,7 @@ email: "yegorova@eoas.ubc.ca"
 highlight_name: false
 ---
 
-I am a PhD student at teh University of British Columbia. My research interests are diverse and include modelling of zooplnakton distrubutions in global ocean, educational reaserach and computational chemistry. 
+I am a PhD student at the University of British Columbia. My research interests are diverse and include modelling of zooplnakton distrubutions in global ocean, educational reaserach and computational chemistry. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
