@@ -3,7 +3,7 @@ widget: experience
 headless: true  # This file represents a page section.
 
 headless: true
-weight: 25
+weight: 20
 
 title: 'Teaching Experience'
 subtitle: ''
