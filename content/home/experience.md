@@ -33,6 +33,14 @@ experience:
         * EOSC315 - The Ocean Ecosystem
         * EOSC478 - Introduction to Fisheries Science
         * STAT545 - Data wrangling, exploration, and analysis with R
-        * * STAT547 - Reproducible workflows and interactive dashboards with R
+        * STAT547 - Reproducible workflows and interactive dashboards with R
         * SCIE113 - First-Year Seminar in Science
+        
+  - title: 'Seasonal Instructor'
+    company: 'University British Columbia'
+    company_url: ''
+    location: 'Vancouver, Canada'
+    date_start: 'Jun 2019'
+    date_end: 'Aug 2019'
+    description: 'Taught a 4-week intensive course for Future Global Leaders Program'
 ---
