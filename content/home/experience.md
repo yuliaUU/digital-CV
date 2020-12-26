@@ -26,16 +26,16 @@ experience:
     date_end: '2019-08-02'
     description: >-
         Future Global Leaders Program Instructor
-    
+
   - title: 'Graduate Teaching Assistant'
     company: 'University British Columbia'
     company_url: ''
     location: 'Vancouver, Canada'
-    date_start: '2015'
-    date_end: ""
+    date_start: '2013'
+    date_end: ''
     description: >-
         Courses TAed:
-             
+        
         * EOSC112 - The Fluid Earth: Atmosphere and Ocean
         * EOSC110 - The Solid Earth: A Dynamic Planet
         * EOSC114 - The Catastrophic Earth: Natural Disasters
@@ -43,6 +43,7 @@ experience:
         * EOSC478 - Introduction to Fisheries Science
         * STAT545 - Data wrangling, exploration, and analysis with R
         * STAT547 - Reproducible workflows and interactive dashboards with R
-        * SCIE113 - First-Year Seminar in Science        
+        * SCIE113 - First-Year Seminar in Science
+      
  
 ---
