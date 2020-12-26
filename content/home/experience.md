@@ -26,10 +26,10 @@ experience:
     company: University British Columbia 
     company_url: ''
     location: Vancouver, Canada
-    date_start: '2017-01-01'
-    date_end: ''
+    date_start: '2019-08-01'
+    date_end: '2019-08-02'
     description: |2-
-        Future Global Leaders Program Instructor:
+        Future Global Leaders Program Instructor
         
   - title: Seasonal Instructor
     company: University British Columbia 
