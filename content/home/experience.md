@@ -66,6 +66,6 @@ experience:
     location: 'Vancouver, Canada'
     date_start: '2018-08'
     date_end: '2018-07'
-    description: 'Taught an 4-week intensive course (15hrs/week) for Future Global Leaders Program'
+    description: 'Sea Smart Program, a non-profit organization that helps kids in Grades 1 to 4 develop essential skills such as critical thinking, problem-solving, teamwork and leadership to learn about our amazing oceans and marine animals.'
     
 ---
