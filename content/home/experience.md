@@ -27,14 +27,14 @@ experience:
     description: >-
         Responsibilities include:
         
-        * EOSC112 - The Fluid Earth: Atmosphere and Ocean
-        * EOSC110 - The Solid Earth: A Dynamic Planet
-        * EOSC114 - The Catastrophic Earth: Natural Disasters
-        * EOSC315 - The Ocean Ecosystem
-        * EOSC478 - Introduction to Fisheries Science
-        * STAT545 - Data wrangling, exploration, and analysis with R
-        * STAT547 - Reproducible workflows and interactive dashboards with R
-        * SCIE113 - First-Year Seminar in Science
+        - EOSC112 - The Fluid Earth: Atmosphere and Ocean
+        - EOSC110 - The Solid Earth: A Dynamic Planet
+        - EOSC114 - The Catastrophic Earth: Natural Disasters
+        - EOSC315 - The Ocean Ecosystem
+        - EOSC478 - Introduction to Fisheries Science
+        - STAT545 - Data wrangling, exploration, and analysis with R
+        - STAT547 - Reproducible workflows and interactive dashboards with R
+        - SCIE113 - First-Year Seminar in Science
         
   - title: 'Seasonal Instructor'
     company: 'University British Columbia'
