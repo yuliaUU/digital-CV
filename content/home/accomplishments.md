@@ -34,7 +34,7 @@ item:
 - certificate_url: https://ctlt.ubc.ca/programs/all-our-programs/graduate-program-in-advanced-teaching-and-learning/
   date_end: "2019"
   date_start: "2018"
-  description: The Certificate Program in Advanced Teaching and Learning is a year-long teaching development program that supports the development of graduate students’ expertise in teaching and learning.
+  description: `|2-` The Certificate Program in Advanced Teaching and Learning is a year-long teaching development program that supports the development of graduate students’ expertise in teaching and learning.
   organization: University of British Columbia
   organization_url: ""
   title: Certificate in Advanced Teaching and Learning
