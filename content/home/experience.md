@@ -26,7 +26,7 @@ experience:
     date_end: '2019-08-02'
     description: >-
         Future Global Leaders Program Instructor
-
+        
   - title: 'Graduate Teaching Assistant'
     company: 'University British Columbia'
     company_url: ''
