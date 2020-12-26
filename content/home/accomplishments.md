@@ -32,16 +32,16 @@ item:
   title: Killam Graduate TA Teaching Award
   url: ""
 - certificate_url: https://ctlt.ubc.ca/programs/all-our-programs/graduate-program-in-advanced-teaching-and-learning/
-  date_end: "2019"
-  date_start: "2018"
+  date_end: "Sep 2019"
+  date_start: "Sep 2018"
   description: `|2-` The Certificate Program in Advanced Teaching and Learning is a year-long teaching development program that supports the development of graduate students’ expertise in teaching and learning.
   organization: University of British Columbia
   organization_url: ""
   title: Certificate in Advanced Teaching and Learning
   url: ""
 - certificate_url: oxfordcollege.ac/product/level-3-marine-biology-diploma/
-  date_end: "2012"
-  date_start: "2010"
+  date_end: "Oct 2012"
+  date_start: "Oct 2010"
   description: ""
   organization: Oxford Colledge of London
   organization_url: https://www.datacamp.com
