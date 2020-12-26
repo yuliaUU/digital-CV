@@ -26,38 +26,14 @@ experience:
     date_end: '2019-08-02'
     description: >-
         Future Global Leaders Program Instructor
-  
-  - title: Seasonal Instructor
-    company: University British Columbia 
-    company_url: ''
-    location: Vancouver, Canada
-    date_start: '2016'
-    date_end: '2018'
-    description: Vancouver Summer Program Science Package B: Atmosphere and Ocean Instructor
     
-  - title: STEM Tutor
-    company: DataPi Learning Center
+  - title: 'Graduate Teaching Assistant'
+    company: 'University British Columbia'
     company_url: ''
-    location: Vancouver, Canada
+    location: 'Vancouver, Canada'
     date_start: '2015'
     date_end: ""
-    description: tutor for K-G12 students in: Math, Calculus, AP Calculus, Science, Chemistry, Physics, and MCAT
-  
-  - title: Lab Instructor
-    company: University British Columbia
-    company_url: ''
-    location: Vancouver, Canada
-    date_start: '2015'
-    date_end: ""
-    description: EOSC111 -Laboratory Exploration of Planet Earth
-    
-  - title: Graduate Teaching Assistant
-    company: University British Columbia
-    company_url: ''
-    location: Vancouver, Canada
-    date_start: '2015'
-    date_end: ""
-    description: |2-
+    description: >-
         Courses TAed:
              
         * EOSC112 - The Fluid Earth: Atmosphere and Ocean
