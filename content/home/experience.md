@@ -22,7 +22,7 @@ experience:
     company: 'University British Columbia '
     company_url: ''
     location: 'Vancouver, Canada'
-    date_start: '2013'
+    date_start: '2013-09-01'
     date_end: ''
     description: |
         Responsibilities include:
@@ -40,7 +40,7 @@ experience:
     company: 'University British Columbia '
     company_url: ''
     location: 'Vancouver, Canada'
-    date_start: '2014'
+    date_start: '2014-09-01'
     date_end: ''
     description: 'teaching EOSC111 -Laboratory Exploration of Planet Earth'
         
@@ -48,7 +48,7 @@ experience:
     company: 'DataPi Learning Center'
     company_url: 'http://datapi.com/'
     location: 'Vancouver, Canada'
-    date_start: '2015'
+    date_start: '2015-10-01'
     date_end: ''
     description: 'Taught electronic engineering and researched semiconductor physics.'
         
@@ -56,16 +56,16 @@ experience:
     company: 'University British Columbia '
     company_url: 'https://extendedlearning.ubc.ca/programs/future-global-leaders'
     location: 'Vancouver, Canada'
-    date_start: '2019-06'
-    date_end: '2016-07'
+    date_start: '2019-06-01'
+    date_end: '2016-07-01'
     description: 'Taught an 4-week intensive course (15hrs/week) for Future Global Leaders Program'
         
   - title: 'Staff Educator for After School Programs'
     company: 'Sea Smart'
     company_url: 'https://seasmartschool.com/'
     location: 'Vancouver, Canada'
-    date_start: '2018-08'
-    date_end: '2018-07'
+    date_start: '2018-08-01'
+    date_end: '2018-07-01'
     description: 'Sea Smart Program, a non-profit organization that helps kids in Grades 1 to 4 develop essential skills such as critical thinking, problem-solving, teamwork and leadership to learn about our amazing oceans and marine animals.'
     
 ---
