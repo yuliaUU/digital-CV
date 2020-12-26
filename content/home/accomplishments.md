@@ -23,30 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ''
-  date_end: "2020-04-09"
-  date_start: ""
-  description: ""
-  organization: University of British Columbia
-  organization_url: https://www.coursera.org
-  title: Killam Graduate TA Teaching Award
-  url: "https://academic.ubc.ca/awards-funding/award-opportunities/teaching-awards"
-- certificate_url: ''
-  date_end: "2019-09-01"
-  date_start: "2018-09-01"
-  description: 'The Certificate Program in Advanced Teaching and Learning is a year-long teaching development program that supports the development of graduate students’ expertise in teaching and learning.'
-  organization: University of British Columbia
-  organization_url: "https://ctlt.ubc.ca/programs/all-our-programs/graduate-program-in-advanced-teaching-and-learning/"
-  title: Certificate in Advanced Teaching and Learning
-  url: ""
-- certificate_url: ''
-  date_end: "2012-10-01"
-  date_start: "2010-10-01"
-  description: ""
-  organization: Oxford Colledge of London
-  organization_url: https://www.datacamp.com
-  title: Marine Biology Ascentis Level 3 Diploma
-  url: "oxfordcollege.ac/product/level-3-marine-biology-diploma/"
+  - organization: Coursera
+    organization_url: 'https://www.coursera.org'
+    title: Neural Networks and Deep Learning
+    url: ''
+    certificate_url: 'https://www.coursera.org'
+    date_start: '2018-10-01'
+    date_end: ''
+    description: ''
+  - organization: edX
+    organization_url: 'https://www.edx.org'
+    title: Blockchain Fundamentals
+    url: >-
+      https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+    certificate_url: 'https://www.edx.org'
+    date_start: '2018-03-01'
+    date_end: ''
+    description: 'Formulated informed blockchain models, hypotheses, and use cases.'
+  - organization: DataCamp
+    organization_url: 'https://www.datacamp.com'
+    title: 'Object-Oriented Programming in R: S3 and R6 Course'
+    url: ''
+    certificate_url: 'https://www.datacamp.com'
+    date_start: '2017-07-01'
+    date_end: '2017-12-21'
+    description: ''
 ---
 
 
