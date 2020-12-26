@@ -2,7 +2,11 @@
 widget: experience
 headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
+headless: true
+weight: 25
+
+title: 'Teaching Experience'
+subtitle: ''
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
