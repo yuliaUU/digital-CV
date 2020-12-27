@@ -25,8 +25,8 @@ content:
   filters:
     tag: 'Chemistry'
     category: 'Research'
-    publication_type: ''
-    author: ''
+    publication_type: 'article'
+    author: 'Egorova Y'
     exclude_featured: true
 design:
   # Choose a view for the listings:
