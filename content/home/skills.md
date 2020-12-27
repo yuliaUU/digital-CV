@@ -41,6 +41,10 @@ feature:
   icon: chalkboard-teacher
   icon_pack: fas
   name: Teaching
+- description: 90%
+  icon: edit
+  icon_pack: fas
+  name: course design
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
