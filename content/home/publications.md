@@ -8,8 +8,10 @@ title: Featured Publications
 subtitle: ""
 
 content:
-  page_type: publication # Page type to display. E.g. post, talk, or publication.
-  count: 0 # Choose how much pages you would like to display (0 = all pages)
+# Page type to display. E.g. post, talk, or publication.
+  page_type: post 
+  count: 5 # Choose how much pages you would like to display (0 = all pages)
+  offset: 0
   order: desc # Page order. Descending (desc) or ascending (asc) date.
   filters: # Optionally filter posts by a taxonomy term.
     tag: ''
