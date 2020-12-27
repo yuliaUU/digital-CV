@@ -1,5 +1,5 @@
 ---
-title: Equity & Inclusion Scholar
+title: Equity & Inclusion
 summary: Multidisciplinary study of equity and inclusion in first year Physcics, Chemistry and Biology courses at University of British Columbia.
 tags:
 - education
