@@ -31,6 +31,8 @@ content:
     tag: ocean
   - name: Education
     tag: education
+  - name: Internships
+    tag: internship
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
