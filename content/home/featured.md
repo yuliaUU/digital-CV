@@ -1,6 +1,6 @@
 ---
 
-widget: featured
+widget: pages
 headless: true  # This file represents a page section.
 weight: 50
 
