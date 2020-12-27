@@ -3,6 +3,7 @@ design:
   spacing:
     # Customize the section spacing. Order is top, right, bottom, left.
     padding: ["10px", "0", "10px", "0"]
+    
 widget: pages
 headless: true  # This file represents a page section.
 title: 'Publications'
