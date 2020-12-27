@@ -1,7 +1,7 @@
 ---
 title: "Theoretical Study of Deuterium Isotope Effects on Acid-Base Equilibria under Ambient and
 Hydrothermal Conditions"
-date: "2014-12-23"
+date: "2016-04-20T00:00:00Z"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
