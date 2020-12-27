@@ -1,6 +1,6 @@
 ---
 title: Research Internship
-summary: Seaturtle Conservation with ARCHELON, the Sea Turtle Protection Society of Greece
+summary: Great White Shark Conservation in Mossel Bay, South Africa
 tags:
 - oceanography
 - internship
