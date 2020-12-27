@@ -23,30 +23,29 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - organization: Coursera
-    organization_url: 'https://www.coursera.org'
-    title: Neural Networks and Deep Learning
+  - organization: 'University of British Columbia'
+    organization_url: 'https://academic.ubc.ca/awards-funding/award-opportunities/teaching-awards'
+    title: 'Killam Graduate TA Teaching Award'
     url: ''
-    certificate_url: 'https://www.coursera.org'
-    date_start: '2018-10-01'
+    certificate_url: ''
+    date_start: '2019-04-01'
     date_end: ''
     description: ''
-  - organization: edX
+  - organization: 'University of British Columbia'
     organization_url: 'https://www.edx.org'
-    title: Blockchain Fundamentals
-    url: >-
-      https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    certificate_url: 'https://www.edx.org'
-    date_start: '2018-03-01'
-    date_end: ''
-    description: 'Formulated informed blockchain models, hypotheses, and use cases.'
-  - organization: DataCamp
-    organization_url: 'https://www.datacamp.com'
-    title: 'Object-Oriented Programming in R: S3 and R6 Course'
+    title: 'Certificate in Advanced Teaching and Learning'
+    url: `https://ctlt.ubc.ca/programs/all-our-programs/graduate-program-in-advanced-teaching-and-learning/`
+    certificate_url: ''
+    date_start: '2018-09-01'
+    date_end: '2019-09-01'
+    description: 'The Certificate Program in Advanced Teaching and Learning is a year-long teaching development program that supports the development of graduate students’ expertise in teaching and learning.'
+  - organization: 'Oxford Colledge of London'
+    organization_url: 'oxfordcollege.ac/product/level-3-marine-biology-diploma/'
+    title: 'Marine Biology Ascentis Level 3 Diploma'
     url: ''
-    certificate_url: 'https://www.datacamp.com'
-    date_start: '2017-07-01'
-    date_end: '2017-12-21'
+    certificate_url: ''
+    date_start: '2010-10-22'
+    date_end: '2012-10-22'
     description: ''
 ---
 
