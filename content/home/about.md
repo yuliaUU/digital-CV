@@ -1,4 +1,8 @@
 ---
+design:
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
 # An instance of the About widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: about
