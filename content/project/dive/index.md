@@ -11,13 +11,13 @@ date: "2009-05-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Elisa Areano
   focal_point: Smart
 
 links:
-- icon: Barefoot Divemaster Website
+- icon: paperclip
   icon_pack: fas
-  name: paperclip
+  name: Barefoot Divemaster Website
   url: https://www.barefootcay.com/go-pro
 # url_code: ""
 # url_pdf: ""
