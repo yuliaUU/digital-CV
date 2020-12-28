@@ -11,13 +11,13 @@ date: "2009-05-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Yulia Egorova
   focal_point: Smart
 
 links:
-- icon: Archelon Website
+- icon: paperclip
   icon_pack: fas
-  name: paperclip
+  name: Archelon Website
   url: https://www.archelon.gr/index_eng.php
 # url_code: ""
 # url_pdf: ""
@@ -29,7 +29,7 @@ links:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: 
+# slides: 
 ---
 
 - Morning Surveys to assess the previous night's turtle activities.
