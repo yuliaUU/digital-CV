@@ -23,6 +23,7 @@ interests:
 - Data Visualization 
 - Data Analysis
 - Programming in R
+- Curriculum & Course Design
 
 # Education to show in About widget
 education:
