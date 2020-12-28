@@ -17,14 +17,8 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
- - Teaching
- - Research
- - Data Visualization 
- - Data Analysis1
- - Programming in R
- - Curriculum & Course Design
- 
+[interests]
+
  
 # Education to show in About widget
 education:
