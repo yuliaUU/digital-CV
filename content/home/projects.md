@@ -36,7 +36,7 @@ content:
     tag: internship
   - name: MSc thesis
     tag: msc
-  - name: PhD thesis
+  - name: PhD thesis1
     tag: phd
  
 
