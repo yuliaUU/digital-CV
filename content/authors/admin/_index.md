@@ -16,6 +16,16 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
+# Interests to show in About widget
+interests:
+ - Teaching
+ - Research
+ - Data Visualization 
+ - Data Analysis1
+ - Programming in R
+ - Curriculum & Course Design
+ 
+ 
 # Education to show in About widget
 education:
   courses:
@@ -32,14 +42,7 @@ education:
     institution: Mendeleyev University of Chemical Technology
     year: 2010
 
-# Interests to show in About widget
-interests:
- - Teaching
- - Research
- - Data Visualization 
- - Data Analysis
- - Programming in R
- - Curriculum & Course Design
+
  
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
