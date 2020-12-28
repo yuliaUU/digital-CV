@@ -15,9 +15,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: EI Scholar Program Website
+- icon: paperclip
   icon_pack: fas
-  name: paperclip
+  name: EI Scholar Program Website
   url: https://equity.ubc.ca/resources/equity-inclusion-scholars-program/
 # url_code: ""
 # url_pdf: ""
