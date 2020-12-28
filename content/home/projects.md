@@ -55,6 +55,5 @@ design:
   flip_alt_rows: false
 
 advanced:
- # Custom CSS. 
- css_style = "minimal"
+  css_style = "minimal"
 ---
