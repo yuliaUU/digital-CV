@@ -30,16 +30,26 @@ experience:
     date_start: '2013-09-01'
     date_end: ''
     description: |
-        Responsibilities include:
+        First-year Undergraduate Courses:
         
         * EOSC112 - The Fluid Earth: Atmosphere and Ocean
         * EOSC110 - The Solid Earth: A Dynamic Planet
         * EOSC114 - The Catastrophic Earth: Natural Disasters
+        * SCIE113 - First-Year Seminar in Science
+        
+        Upper-level Undergraduate Courses:
+        
         * EOSC315 - The Ocean Ecosystem
         * EOSC478 - Introduction to Fisheries Science
+        
+        Graduate-level Courses:
+        
         * STAT545 - Data wrangling, exploration, and analysis with R
         * STAT547 - Reproducible workflows and interactive dashboards with R
-        * SCIE113 - First-Year Seminar in Science
+        * MDS521 - Computing Platforms for Data Science
+        * MDS561 - Regression I
+        * MDS552 - Statistical Inference and Computation I¶
+        
         
   - title: 'Laboratory Instructor'
     company: 'University British Columbia '
@@ -61,16 +71,16 @@ experience:
     company: 'University British Columbia '
     company_url: 'https://extendedlearning.ubc.ca/programs/future-global-leaders'
     location: 'Vancouver, Canada'
-    date_start: '2019-06-01'
-    date_end: '2016-07-01'
+    date_start: '2019-07-01'
+    date_end: '2019-08-01'
     description: 'Taught an 4-week intensive course (15hrs/week) for Future Global Leaders Program'
         
   - title: 'Staff Educator for After School Programs'
     company: 'Sea Smart'
     company_url: 'https://seasmartschool.com/'
     location: 'Vancouver, Canada'
-    date_start: '2018-08-01'
-    date_end: '2018-07-01'
-    description: 'Sea Smart Program, a non-profit organization that helps kids in Grades 1 to 4 develop essential skills such as critical thinking, problem-solving, teamwork and leadership to learn about our amazing oceans and marine animals.'
+    date_start: '2019-01-01'
+    date_end: '2019-09-01'
+    description: 'Teaching Grades 1-4 to develop essential skills such as critical thinking, problem-solving, teamwork and leadership to learn about our amazing oceans and marine animals.'
     
 ---
