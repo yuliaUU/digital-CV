@@ -19,10 +19,10 @@ links:
   icon_pack: fas
   name: Orginization website
   url: https://equity.ubc.ca/resources/equity-inclusion-scholars-program/
-#url_code: ""
-#url_pdf: ""
-#url_slides: ""
-#url_video: ""
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
