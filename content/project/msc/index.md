@@ -3,7 +3,7 @@ title: Salmon Research
 summary: investigation of  the early marine stage in the population of juvenile sockeye salmon in Rivers Inlet (BC, Canada)  
 tags:
 - oceanography
-- internship
+- msc
 
 date: "2009-05-01T00:00:00Z"
 
