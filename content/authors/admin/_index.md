@@ -20,8 +20,8 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
  - Teaching
  - Research
- - Data Visualization 
- - Data Analysis
+ - Data Science 
+ - Earth and Ocean Sciences
  - Programming in R
  - Curriculum & Course Design
  
