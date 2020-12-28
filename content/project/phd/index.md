@@ -11,7 +11,7 @@ date: "2009-05-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Logo by @ksenia_kc
   focal_point: Smart
 
 #links:
