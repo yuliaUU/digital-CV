@@ -42,10 +42,6 @@ content:
   - name: Data Visualization  
   - tag: data-vis
 
-.btn-toolbar{
-  text-align: center;
-}
-
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
