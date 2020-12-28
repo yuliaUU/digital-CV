@@ -8,17 +8,17 @@ tags:
 date: "2020-05-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://equity.ubc.ca/resources/equity-inclusion-scholars-program/"
+external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 #links:
-#- icon: twitter
-#  icon_pack: fab
-#  name: Follow
-#  url: https://twitter.com/georgecushen
+- icon: paperclip
+  icon_pack: fas
+  name: Orginization website
+  url: https://equity.ubc.ca/resources/equity-inclusion-scholars-program/
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
@@ -29,7 +29,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+# slides: example
 ---
 
 **Project Vision:** *Using the tools and suggested best practices for learning activities this project will produce, other educators will be able to better understand and respond to the diverse needs of students in their specific disciplinary contexts.*
