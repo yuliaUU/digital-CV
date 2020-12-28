@@ -17,7 +17,7 @@ image:
 links:
 - icon: paperclip
   icon_pack: fas
-  name: Orginization website
+  name: paperclip
   url: https://equity.ubc.ca/resources/equity-inclusion-scholars-program/
 # url_code: ""
 # url_pdf: ""
