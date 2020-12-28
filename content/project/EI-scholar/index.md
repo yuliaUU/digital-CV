@@ -14,7 +14,7 @@ image:
   caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
-#links:
+links:
 - icon: paperclip
   icon_pack: fas
   name: Orginization website
