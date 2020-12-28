@@ -44,7 +44,7 @@ feature:
 - description: 90%
   icon: edit
   icon_pack: fas
-  name: course design
+  name: Course Design
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
