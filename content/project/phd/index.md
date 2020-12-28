@@ -3,7 +3,7 @@ title: Species Distribution Modelling
 summary: Global Distribution and Biomass of the Mesopelagic Mesozooplankton and Micronekton 
 tags:
 - oceanography
-- internship
+- phd
 
 date: "2009-05-01T00:00:00Z"
 
