@@ -1,7 +1,15 @@
 .btn-toolbar {
     justify-content: center;
 }
+.card h4 a {
+    font-family: 'Roboto';
+}
+
 .project-card .card {
     margin: 0;
     height: 18rem;
+}
+
+.img-responsive {
+    height: 10rem;
 }
