@@ -28,12 +28,18 @@ content:
   - name: All
     tag: '*'
   - name: Oceanography
-    tag: ocean
+    tag: oceanography
   - name: Education
     tag: education
   - name: Internships
     tag: internship
-
+  - name: MSc thesis
+    tag: msc
+  - name: PhD thesis
+    tag: phd
+  - name: Data Visualization  
+  - tag: data-vis
+  
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
