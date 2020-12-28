@@ -39,8 +39,7 @@ content:
     tag: msc
   - name: PhD thesis
     tag: phd
-  - name: Data Visualization  
-  - tag: data-vis
+ 
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
