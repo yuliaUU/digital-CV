@@ -57,7 +57,7 @@ experience:
     location: 'Vancouver, Canada'
     date_start: '2014-09-01'
     date_end: ''
-    description: 'teaching EOSC111 -Laboratory Exploration of Planet Earth'
+    description: 'Teaching EOSC111 -Laboratory Exploration of Planet Earth. The lab includes a variety of Earth and Ocean Science disciplines including geology, paleontology, seismology, volcanology, oceanography, hydrology, and atmospheric science'
         
   - title: 'STEM Tutor'
     company: 'DataPi Learning Center'
@@ -65,7 +65,7 @@ experience:
     location: 'Vancouver, Canada'
     date_start: '2015-10-01'
     date_end: ''
-    description: 'Taught electronic engineering and researched semiconductor physics.'
+    description: 'Tutor for a variaety of STEM courses: Science, Chemistry (including AP), Physics (including AP), Math, Calculus (including AP), MCAT'
         
   - title: 'Sessional Instructor'
     company: 'University British Columbia '
@@ -73,7 +73,7 @@ experience:
     location: 'Vancouver, Canada'
     date_start: '2019-07-01'
     date_end: '2019-08-01'
-    description: 'Taught an 4-week intensive course (15hrs/week) for Future Global Leaders Program'
+    description: 'taught the 2019 UBC Extended Learning Future Global Leaders course: *Ocean and Atmosphere Systems: Through the Lens of Climate Change*'
         
   - title: 'Staff Educator for After School Programs'
     company: 'Sea Smart'
