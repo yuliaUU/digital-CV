@@ -48,7 +48,7 @@ experience:
         * STAT547 - Reproducible workflows and interactive dashboards with R
         * MDS521 - Computing Platforms for Data Science
         * MDS561 - Regression I
-        * MDS552 - Statistical Inference and Computation I¶
+        * MDS552 - Statistical Inference and Computation
         
         
   - title: 'Laboratory Instructor'
