@@ -1,6 +1,6 @@
 ---
 title: Sturgeon Lab Technician
-summary: Analysis of steargeon otolith 
+summary: Analysis of sturgeon otoliths from Fraser River
 tags:
 - oceanography
 
@@ -14,9 +14,9 @@ image:
   focal_point: Smart
 
 links:
-- icon: BCCF Website
+- icon: paperclip
   icon_pack: fas
-  name: paperclip
+  name: BCCF Website
   url: https://bccf.com/
 # url_code: ""
 # url_pdf: ""
