@@ -40,7 +40,16 @@ education:
   - course: BSc in Chemical Engineering   
     institution: Mendeleyev University of Chemical Technology
     year: 2010
-    
+
+# Interests to show in About widget
+interests:
+ - Teaching
+ - Research
+ - Data Visualization 
+ - Data Analysis
+ - Programming in R
+ - Curriculum & Course Design
+ 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
