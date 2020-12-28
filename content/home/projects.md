@@ -56,11 +56,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 
-.btn-toolbar {
-    text-align: center;
-    align-content: center;
-    /* display: flex; */
-    flex-wrap: wrap;
-    justify-content: flex-start;
-} 
+
 ---
