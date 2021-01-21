@@ -31,6 +31,8 @@ links:
 #   Otherwise, set `slides = ""`.
 # slides: example
 ---
+**ABout the E&I Science Scholars**
+The UBC’s Equity & Inclusion (E&I) Scholars Program enhances the university’s strategic commitment to increasing equitable and inclusive teaching practices that support and enhance the experiences of all learners. The aim of this project is to develop tools for educators and researchers to measure aspects of their classroom relevant to equity, diversity, and inclusion (EDI)to identify inequalities and inequities that currently exist in UBC courses, and determine the characteristics of learning activities that support and engage all students.
 
 **Project Vision:** *Using the tools and suggested best practices for learning activities this project will produce, other educators will be able to better understand and respond to the diverse needs of students in their specific disciplinary contexts.*
 
