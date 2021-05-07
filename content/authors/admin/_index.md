@@ -61,6 +61,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yuliaUU
+- icon: stack-overflow
+  icon_pack: fab
+  link: https://stackoverflow.com/users/3617715/yuliauu
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
