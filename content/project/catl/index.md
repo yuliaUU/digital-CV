@@ -20,7 +20,7 @@ links:
   name: Infographics
 #  url: 
 # url_code: ""
- url_pdf: ""
+ url_pdf: "https://github.com/yuliaUU/digital-CV/blob/master/content/project/catl/CATL_Project.pdf"
 # url_slides: ""
 # url_video: ""
 
