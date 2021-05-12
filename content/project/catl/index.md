@@ -11,7 +11,7 @@ date: "2020-05-01T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Diagram made by @yuliaUU
+  caption: 
   focal_point: Smart
 
 links:
