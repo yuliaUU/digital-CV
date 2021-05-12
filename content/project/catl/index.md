@@ -18,7 +18,7 @@ links:
 - icon: paperclip
   icon_pack: fas
   name: Infographics
-  url: 
+  url: https://github.com/yuliaUU/digital-CV/blob/master/content/project/catl/CATL_Project.pdf
 # url_code: ""
   url_pdf: "https://github.com/yuliaUU/digital-CV/blob/master/content/project/catl/CATL_Project.pdf"
 # url_slides: ""
