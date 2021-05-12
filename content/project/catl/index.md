@@ -1,6 +1,6 @@
 ---
-title: Equity & Inclusion
-summary: Multidisciplinary study of equity and inclusion in first year Physcics, Chemistry and Biology courses at University of British Columbia.
+title: SotL Project
+summary: Study exploring student interaction during online discussion with use of online platform such as Facebook into leraning process
 tags:
 - education
 - data-vis
@@ -18,9 +18,9 @@ links:
 - icon: paperclip
   icon_pack: fas
   name: Infographics
-#  url: 
+  url: 
 # url_code: ""
- url_pdf: "https://github.com/yuliaUU/digital-CV/blob/master/content/project/catl/CATL_Project.pdf"
+  url_pdf: "https://github.com/yuliaUU/digital-CV/blob/master/content/project/catl/CATL_Project.pdf"
 # url_slides: ""
 # url_video: ""
 
