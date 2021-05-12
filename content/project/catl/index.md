@@ -1,5 +1,5 @@
 ---
-title: SotL Project
+title: SoTL Project
 summary: Study exploring student interaction during online discussion with use of online platform such as Facebook into leraning process
 tags:
 - education
