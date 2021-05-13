@@ -40,13 +40,12 @@ Applying your principles and theories into your classroom is rather challenging.
 
 **Student interaction and cognition in online role playing discussions**
 
-This study describes evidence supporting the effectiveness of role playing discussion for science
-communication in online education and offers strategies for its implementation The effectiveness of role
-playing discussions was assessed through three measures 1 student perceptions of the activity, 2 student
-interaction using the Interaction Analysis Model, and 3 level of cognition using the Revised Bloom’s
-Taxonomy The results demonstrated that students were highly engaged in this activity, with limited presence
-of off topic threads In addition, students adjusted the cognitive level of their participation as they embodied
-different roles and performed at high levels of cognition Role playing enables rich and adaptable online
-discussions, facilitating peer learning in distant settings
+This study describes evidence supporting the effectiveness of role playing discussion for science communication in online education and offers strategies for its implementation The effectiveness of role playing discussions was assessed through three measures:
+
+1. Student perceptions of the activity, 
+2. Student interaction using the Interaction Analysis Model, and 
+3. Level of cognition using the Revised Bloom’s Taxonomy 
+
+The results demonstrated that students were highly engaged in this activity, with limited presence of off topic threads In addition, students adjusted the cognitive level of their participation as they embodied different roles and performed at high levels of cognition Role playing enables rich and adaptable online discussions, facilitating peer learning in distant settings
 
 
