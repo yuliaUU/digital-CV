@@ -1,3 +1,2 @@
 
-Link to digital CV: https://yuliaegorova.netlify.app/
-
+Link to digital CV: 
