@@ -32,7 +32,7 @@ item:
     organization_url: 'https://academic.ubc.ca/awards-funding/award-opportunities/teaching-awards'
     title: 'Killam Graduate TA Teaching Award'
     url: 'https://academic.ubc.ca/awards-funding/award-opportunities/teaching-awards'
-    certificate_url: 'https://academic.ubc.ca/awards-funding/award-opportunities/teaching-awards'
+    certificate_url: media/Killam2020.pdf
     date_start: '2019-04-01'
     date_end: ''
     description: ''
