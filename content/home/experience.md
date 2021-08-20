@@ -44,6 +44,7 @@ experience:
         
         Graduate-level Courses:
         
+        * MEDI 504 - Emerging Topics in Experimental Medicine
         * STAT545 - Data wrangling, exploration, and analysis with R
         * STAT547 - Reproducible workflows and interactive dashboards with R
         * MDS521 - Computing Platforms for Data Science
