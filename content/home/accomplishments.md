@@ -29,6 +29,14 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
   - organization: 'University of British Columbia'
+    organization_url: 'https://masterdatascience.ubc.ca/'
+    title: 'UBC MDS TA Award'
+    url: ''
+    certificate_url: media/MDS_TAaward.pdf
+    date_start: '2021-06-30'
+    date_end: ''
+    description: 'Master of Data Science Teaching assistant award for outstanding work in DSCI521, DSCI552 and DSCI561'
+  - organization: 'University of British Columbia'
     organization_url: 'https://academic.ubc.ca/awards-funding/award-opportunities/teaching-awards'
     title: 'Killam Graduate TA Teaching Award'
     url: 'https://academic.ubc.ca/awards-funding/award-opportunities/teaching-awards'
