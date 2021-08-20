@@ -56,7 +56,7 @@ item:
     organization_url: 'oxfordcollege.ac/product/level-3-marine-biology-diploma/'
     title: 'Marine Biology Ascentis Level 3 Diploma'
     url: 'oxfordcollege.ac/product/level-3-marine-biology-diploma/'
-    certificate_url: 'oxfordcollege.ac/product/level-3-marine-biology-diploma/'
+    certificate_url: media/OxfordDiploma.pdf
     date_start: '2010-10-22'
     date_end: '2012-10-22'
     description: ''
