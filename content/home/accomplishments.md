@@ -57,8 +57,8 @@ item:
     title: 'Instructional Skills Workshops'
     url: 'https://ctlt.ubc.ca/programs/all-our-programs/instructional-skills-workshops/'
     certificate_url: media/ISW2017.pdf
-    date_start: ''
-    date_end: '2017-09-04'
+    date_start: '2017-09-04'
+    date_end: ''
     description: 'This 24 hour (over 3 or 4 days) Instructional Skills Workshop (ISW)focuses on teaching groups of students and is designed to enhance the teaching effectiveness of both new and experienced educators.'
   - organization: 'Oxford Colledge of London'
     organization_url: 'oxfordcollege.ac/product/level-3-marine-biology-diploma/'
