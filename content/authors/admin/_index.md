@@ -14,7 +14,7 @@ organizations:
   url: https://www.ubc.ca/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Iam interdiscipline scientist , my resreach interests are in teaching, learning, data science and oceanography.
 
 # Interests to show in About widget
 interests:
@@ -31,7 +31,7 @@ education:
   courses:
   - course: PhD in Earth and Ocean Sciences
     institution: University of British Columbia 
-    year: 2017-present
+    year: 2022
   - course: MSc in Earth and Ocean Sciences
     institution: University of British Columbia 
     year: 2016
@@ -51,10 +51,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: https://twitter.com/EgorovaUu
+  link: mailto:egorova.uu@gmail.com
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/EgorovaUu
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
   link: https://scholar.google.ca/citations?user=0iErUx4AAAAJ&hl=en&oi=ao
